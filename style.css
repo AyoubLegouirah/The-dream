@@ -1,0 +1,105 @@
+body{
+    background-color: #485460;
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Sanchez', serif;
+
+}
+
+.converter {
+    background-color: #1e272e;
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Sanchez', serif;
+    border: 2px solid black; /* Bordure noire de 2 pixels */
+   
+    width: 300px; /* Largeur du conteneur */
+    height: 550px;
+    margin: 0 auto; /* Centre le conteneur horizontalement en utilisant une marge automatique */
+    padding: 20px; /* Ajoute un espace intérieur de 20 pixels au conteneur */
+    /* Ajoutez d'autres styles CSS pour votre élément .converter ici */
+    border-radius: 10px;
+}
+
+.titre{
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Sanchez', serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    color : #4b555f
+}
+
+.contenair1{
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Sanchez', serif;
+    border-radius: 10px;
+    
+    /* Ajoutez d'autres styles CSS pour votre élément .converter ici */
+    width: 300px; /* Largeur du conteneur */
+    height: 150px;
+    background-color: #485460;
+    margin-bottom: 10px;
+}
+
+.selection1{
+margin-top: 20px;
+margin-left: 10px;
+background-color: #485460;
+border-radius: 10px;
+border:0px ;
+color: #fdfeff;
+font-size: 15px;
+}
+
+option{
+    background-color: #1dd1a1;
+}
+
+.champ1{
+    width: 280px;
+    height: 70px;
+    background-color: #485460;
+    font-size: 30px;
+    margin-left: 5px;
+    border:0px ;
+    outline: none;
+    margin-top: 50px;
+    color: #fdfeff;
+    margin: 10;
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Sanchez', serif;
+}
+
+#fleche{
+   position: absolute;
+   bottom: 340px;
+   right: 570px;
+
+    transform: rotate(90deg);
+    color: #fdfeff;
+    
+    font-size: 40px;
+   
+    background-color: #1e272e;
+    border-radius: 10px;
+    padding: 5px;
+    
+    
+}
+
+
+
+.convertir{
+    margin: 0;
+    
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #1dd1a1;
+    border: 0px solid ; /* Bordure noire de 2 pixels */
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Sanchez', serif;
+    font-size: 18px;
+    color: #fdfefe;
+    width: 300px;
+    height: 30px;
+    text-transform: uppercase;
+}
+
